@@ -4,8 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
-requests = "*"
+Django = "~=2.2.4"
 
 [dev-packages]
 
